@@ -1,0 +1,324 @@
+{
+  "meals": [
+    {
+      "id": 0,
+      "name": "Hamburger",
+      "price": 5.99,
+      "description": "A classic American hamburger with all the fixings.",
+      "category": "meal",
+      "image": "hamburger.jpeg"
+    },
+    {
+      "id": 1,
+      "name": "Pizza Margherita",
+      "price": 10.99,
+      "description": "Traditional Italian pizza with tomato, mozzarella, and basil.",
+      "category": "meal",
+      "image": "Pizza Margherita.avif"
+    },
+    {
+      "id": 2,
+      "name": "French Fries",
+      "price": 2.49,
+      "description": "Crispy golden fries served with ketchup.",
+      "category": "snack",
+      "image": "french fries.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti Carbonara",
+      "price": 12.99,
+      "description": "Italian pasta with eggs, cheese, pancetta, and black pepper.",
+      "category": "meal",
+      "image": "Spaghetti-Carbonara.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Hot Dog",
+      "price": 3.99,
+      "description": "A classic American hot dog with mustard and relish.",
+      "category": "meal",
+      "image": "hot dog.webp"
+    },
+    {
+      "id": 5,
+      "name": "Lasagna",
+      "price": 14.99,
+      "description": "Layered Italian pasta with ricotta, meat sauce, and mozzarella.",
+      "category": "meal",
+      "image": "Lasagna.webp"
+    },
+    {
+      "id": 6,
+      "name": "Onion Rings",
+      "price": 3.49,
+      "description": "Deep-fried onion rings with a crispy batter.",
+      "category": "snack",
+      "image": "onion-rings.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Alfredo",
+      "price": 13.99,
+      "description": "Creamy Italian pasta with grilled chicken and Parmesan.",
+      "category": "meal",
+      "image": "chicken-alfredo.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Cheeseburger",
+      "price": 6.49,
+      "description": "A classic American cheeseburger with lettuce, tomato, and onion.",
+      "category": "meal",
+      "image": "cheeseburger.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Ravioli",
+      "price": 11.99,
+      "description": "Italian pasta filled with cheese or meat, served with marinara sauce.",
+      "category": "meal",
+      "image": "sausage-ravioli.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Mozzarella Sticks",
+      "price": 4.99,
+      "description": "Fried mozzarella cheese sticks served with marinara sauce.",
+      "category": "snack",
+      "image": "Mozarella-Sticks.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "BBQ Ribs",
+      "price": 15.99,
+      "description": "Slow-cooked American BBQ ribs with a smoky sauce.",
+      "category": "meal",
+      "image": "baby-back-ribs.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Penne alla Vodka",
+      "price": 12.99,
+      "description": "Italian pasta in a creamy tomato and vodka sauce.",
+      "category": "meal",
+      "image": "Penne-alla-Vodka.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Nachos",
+      "price": 7.99,
+      "description": "Tortilla chips loaded with cheese, jalapeños, and sour cream.",
+      "category": "snack",
+      "image": "nachos.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Club Sandwich",
+      "price": 9.99,
+      "description": "A classic American club sandwich with turkey, bacon, and mayo.",
+      "category": "meal",
+      "image": "club-sandwich.avif"
+    },
+    {
+      "id": 15,
+      "name": "Gnocchi",
+      "price": 10.99,
+      "description": "Italian potato dumplings served with various sauces.",
+      "category": "meal",
+      "image": "gnocchi.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Chili Cheese Fries",
+      "price": 5.99,
+      "description": "French fries topped with chili and melted cheese.",
+      "category": "snack",
+      "image": "chili-cheese-fries.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Buffalo Wings",
+      "price": 8.99,
+      "description": "Spicy American buffalo wings with ranch dressing.",
+      "category": "snack",
+      "image": "buffalo-wings.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Caesar Salad",
+      "price": 7.49,
+      "description": "A classic American Caesar salad with romaine, croutons, and Caesar dressing.",
+      "category": "meal",
+      "image": "traditional-caesar-salad.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Calzone",
+      "price": 11.99,
+      "description": "Italian folded pizza stuffed with cheese and various fillings.",
+      "category": "meal",
+      "image": "meat-and-chesse-calzone.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Milkshake",
+      "price": 4.99,
+      "description": "A thick and creamy American milkshake in various flavors.",
+      "category": "drink",
+      "image": "Milkshake.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Cannoli",
+      "price": 3.99,
+      "description": "Italian pastry tubes filled with sweet ricotta cream.",
+      "category": "dessert",
+      "image": "cannolis.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "Taco",
+      "price": 2.99,
+      "description": "American-style tacos with seasoned meat, lettuce, and salsa.",
+      "category": "meal",
+      "image": "tacos.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Tiramisu",
+      "price": 6.99,
+      "description": "Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+      "category": "dessert",
+      "image": "tiramisu.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "Pancakes",
+      "price": 7.49,
+      "description": "Fluffy American pancakes served with maple syrup.",
+      "category": "meal",
+      "image": "pancakes.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Cannelloni",
+      "price": 12.99,
+      "description": "Italian pasta tubes filled with meat or cheese, baked in tomato sauce.",
+      "category": "meal",
+      "image": "beef-and-zucchini-cannelloni.jpeg"
+    },
+    {
+      "id": 26,
+      "name": "Iced Tea",
+      "price": 2.99,
+      "description": "Chilled American iced tea with lemon slices.",
+      "category": "drink",
+      "image": "Iced-Tea.jpeg"
+    },
+    {
+      "id": 27,
+      "name": "Chocolate Cake",
+      "price": 4.99,
+      "description": "Decadent American chocolate cake with fudge icing.",
+      "category": "dessert",
+      "image": "chocolate-cake.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "Philly Cheesesteak",
+      "price": 8.99,
+      "description": "American sandwich with thinly sliced beefsteak and melted cheese.",
+      "category": "meal",
+      "image": "Philly-Cheesesteak.webp"
+    },
+    {
+      "id": 29,
+      "name": "Risotto",
+      "price": 11.99,
+      "description": "Creamy Italian rice dish cooked with various ingredients.",
+      "category": "meal",
+      "image": "risotto.webp"
+    },
+    {
+      "id": 30,
+      "name": "Lemonade",
+      "price": 3.49,
+      "description": "Refreshing American lemonade with a hint of citrus.",
+      "category": "drink",
+      "image": "Lemonade.webp"
+    },
+    {
+      "id": 31,
+      "name": "Clam Chowder",
+      "price": 9.99,
+      "description": "Creamy American soup with clams and potatoes.",
+      "category": "meal",
+      "image": "clam-chowder.jpeg"
+    },
+    {
+      "id": 32,
+      "name": "Panna Cotta",
+      "price": 6.99,
+      "description": "Italian dessert made with cream and topped with fruit sauce.",
+      "category": "dessert",
+      "image": "Strawberry-Panna-Cotta.jpeg"
+    },
+    {
+      "id": 33,
+      "name": "BBQ Pulled Pork Sandwich",
+      "price": 9.99,
+      "description": "American sandwich with slow-cooked pulled pork and BBQ sauce.",
+      "category": "meal",
+      "image": "Southern-Pulled-Pork-Sandwich.jpeg"
+    },
+    {
+      "id": 34,
+      "name": "Gelato",
+      "price": 4.99,
+      "description": "Italian frozen dessert in various flavors.",
+      "category": "dessert",
+      "image": "gelato.jpeg"
+    },
+    {
+      "id": 35,
+      "name": "Macaroni and Cheese",
+      "price": 8.99,
+      "description": "American comfort food with creamy cheese sauce.",
+      "category": "meal",
+      "image": "mac-and-cheese.jpeg"
+    },
+    {
+      "id": 36,
+      "name": "Minestrone Soup",
+      "price": 7.49,
+      "description": "Italian vegetable soup with pasta or rice.",
+      "category": "meal",
+      "image": "minestrone-soup.jpeg"
+    },
+    {
+      "id": 37,
+      "name": "Soda",
+      "price": 1.99,
+      "description": "Carbonated American soft drinks in various flavors.",
+      "category": "drink",
+      "image": "soda.jpeg"
+    },
+    {
+      "id": 38,
+      "name": "Chili",
+      "price": 6.99,
+      "description": "Hearty American chili with beef, beans, and spices.",
+      "category": "meal",
+      "image": "chili.jpeg"
+    },
+    {
+      "id": 39,
+      "name": "Buffalo Chicken Tenders",
+      "price": 7.99,
+      "description": "Spicy American chicken tenders with buffalo sauce.",
+      "category": "meal",
+      "image": "buffalo-tenders.jpeg"
+    }
+  ]
+}

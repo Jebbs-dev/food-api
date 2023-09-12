@@ -1,0 +1,113 @@
+[{
+  "id": 40,
+  "name": "Iced Coffee",
+  "price": 3.99,
+  "description": "Chilled American coffee served with ice and cream.",
+  "category": "drink",
+  "image": ""
+},
+{
+  "id": 41,
+  "name": "Cheesecake",
+  "price": 5.99,
+  "description": "Rich American dessert with a creamy cheese filling.",
+  "category": "dessert",
+  "image": ""
+},
+{
+  "id": 42,
+  "name": "BLT Sandwich",
+  "price": 8.49,
+  "description": "Classic American sandwich with bacon, lettuce, and tomato.",
+  "category": "meal",
+  "image": ""
+},
+{
+  "id": 43,
+  "name": "Pesto Pasta",
+  "price": 12.99,
+  "description": "Italian pasta with basil, pine nuts, and Parmesan sauce.",
+  "category": "meal",
+  "image": ""
+},
+{
+  "id": 44,
+  "name": "Root Beer Float",
+  "price": 3.49,
+  "description": "American soda with vanilla ice cream.",
+  "category": "drink",
+  "image": ""
+},
+{
+  "id": 45,
+  "name": "Fried Chicken",
+  "price": 9.99,
+  "description": "American-style fried chicken with crispy breading.",
+  "category": "meal",
+  "image": ""
+},
+{
+  "id": 46,
+  "name": "Fettuccine Alfredo",
+  "price": 11.99,
+  "description": "Italian pasta in a creamy Alfredo sauce.",
+  "category": "meal",
+  "image": ""
+},
+{
+  "id": 47,
+  "name": "Mojito",
+  "price": 7.49,
+  "description": "Refreshing American cocktail with lime, mint, and rum.",
+  "category": "drink",
+  "image": ""
+},
+{
+  "id": 48,
+  "name": "Fish and Chips",
+  "price": 12.99,
+  "description": "British-style fried fish and thick-cut fries.",
+  "category": "meal",
+  "image": ""
+},
+{
+  "id": 49,
+  "name": "Panzanella Salad",
+  "price": 7.49,
+  "description": "Italian bread salad with tomatoes, cucumber, and basil.",
+  "category": "meal",
+  "image": ""
+},
+{
+  "id": 50,
+  "name": "Margarita",
+  "price": 7.99,
+  "description": "Classic American cocktail with tequila, lime, and triple sec.",
+  "category": "drink",
+  "image": ""
+},
+{
+  "id": 51,
+  "name": "BBQ Pulled Chicken Sandwich",
+  "price": 9.99,
+  "description": "American sandwich with slow-cooked pulled chicken and BBQ sauce.",
+  "category": "meal",
+  "image": ""
+},
+{
+  "id": 52,
+  "name": "Caprese Salad",
+  "price": 8.99,
+  "description": "Italian salad with tomatoes, mozzarella, basil, and balsamic glaze.",
+  "category": "meal",
+  "image": ""
+},
+{
+  "id": 53,
+  "name": "Arnold Palmer",
+  "price": 3.49,
+  "description": "American beverage made with a mix of iced tea and lemonade.",
+  "category": "drink",
+  "image": ""
+}
+]
